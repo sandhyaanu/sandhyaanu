@@ -1,4 +1,4 @@
 
-.0.0 com.hmkcode java-lambda 1.0-SNAPSHOT java-lambda
+4.0.0 com.hmkcode java-lambda 1.0-SNAPSHOT java-lambda
 This is new java file for CI /CD Pipeline
 maven-compiler-plugin 3.8.0 1.8 1.8 org.codehaus.mojo exec-maven-plugin 1.6.0 com.hmkcode.App
